@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/0001-two-sum) |
+| [3665-twisted-mirror-path-count](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3665-twisted-mirror-path-count) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
@@ -14,6 +15,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [3665-twisted-mirror-path-count](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bit Manipulation
 |  |
@@ -23,6 +25,7 @@
 ## Matrix
 |  |
 | ------- |
+| [3665-twisted-mirror-path-count](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String
 |  |
