@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/0001-two-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1267-count-servers-that-communicate](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/1267-count-servers-that-communicate) |
 | [1882-process-tasks-using-servers](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/1882-process-tasks-using-servers) |
 | [3665-twisted-mirror-path-count](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3665-twisted-mirror-path-count) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -29,6 +30,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/1267-count-servers-that-communicate) |
 | [3665-twisted-mirror-path-count](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String
@@ -47,6 +49,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/1267-count-servers-that-communicate) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
 |  |
@@ -79,4 +82,16 @@
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/1267-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
