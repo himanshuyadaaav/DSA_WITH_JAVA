@@ -8,6 +8,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1267-count-servers-that-communicate](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/1267-count-servers-that-communicate) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/1882-process-tasks-using-servers) |
 | [3665-twisted-mirror-path-count](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3665-twisted-mirror-path-count) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -66,6 +67,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/1882-process-tasks-using-servers) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
@@ -94,4 +96,12 @@
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/1267-count-servers-that-communicate) |
+## Simulation
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Ordered Set
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
