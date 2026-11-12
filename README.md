@@ -10,6 +10,7 @@
 | [1267-count-servers-that-communicate](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/1267-count-servers-that-communicate) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/1882-process-tasks-using-servers) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3665-twisted-mirror-path-count](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
