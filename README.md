@@ -44,6 +44,7 @@
 ## String
 |  |
 | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Divide and Conquer
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Ordered Set
 |  |
 | ------- |
