@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3665-twisted-mirror-path-count](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Divide and Conquer
@@ -146,4 +148,8 @@
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3364-minimum-positive-sum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 <!---LeetCode Topics End-->
