@@ -12,6 +12,7 @@
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/1882-process-tasks-using-servers) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -29,6 +30,7 @@
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3665-twisted-mirror-path-count](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -100,6 +102,7 @@
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Breadth-First Search
 |  |
 | ------- |
