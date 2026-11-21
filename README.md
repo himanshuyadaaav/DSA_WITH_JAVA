@@ -14,6 +14,7 @@
 | [2567-minimum-score-by-changing-two-elements](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3665-twisted-mirror-path-count](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3665-twisted-mirror-path-count) |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/0001-two-sum) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -51,6 +53,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Divide and Conquer
@@ -60,11 +63,13 @@
 ## Tree
 |  |
 | ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/1267-count-servers-that-communicate) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Indexed Tree
 |  |
