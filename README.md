@@ -8,6 +8,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1267-count-servers-that-communicate](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/1882-process-tasks-using-servers) |
@@ -100,6 +101,7 @@
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -159,10 +161,19 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3364-minimum-positive-sum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
