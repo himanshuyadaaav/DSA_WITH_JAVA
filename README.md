@@ -24,11 +24,13 @@
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3934-smallest-unique-subarray](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3934-smallest-unique-subarray) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/0001-two-sum) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3934-smallest-unique-subarray](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3934-smallest-unique-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -187,4 +189,20 @@
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3411-maximum-subarray-with-equal-products) |
+## Binary Search
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3934-smallest-unique-subarray) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
