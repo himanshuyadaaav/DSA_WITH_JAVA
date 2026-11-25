@@ -102,6 +102,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/0002-add-two-numbers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/1352-product-of-the-last-k-numbers) |
@@ -205,4 +206,12 @@
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/3934-smallest-unique-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/himanshuyadaaav/DSA_WITH_JAVA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
